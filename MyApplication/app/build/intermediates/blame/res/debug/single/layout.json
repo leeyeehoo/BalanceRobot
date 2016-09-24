@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/activity_transfer.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/activity_transfer.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/actionbar_indeterminate_progress.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/actionbar_indeterminate_progress.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/iasc_dialog.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/iasc_dialog.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/activity_face_detecion.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/activity_face_detecion.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/listitem_device.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/listitem_device.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/acticity_voice_detection.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/acticity_voice_detection.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/camera_bottom_panel.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/camera_bottom_panel.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/camera_top_panel.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/camera_top_panel.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/layout/gatt_services_characteristics.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/layout/gatt_services_characteristics.xml"
+    }
+]

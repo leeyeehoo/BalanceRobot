@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/menu/gatt_services.xml",
+        "source": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/src/main/res/menu/gatt_services.xml"
+    }
+]

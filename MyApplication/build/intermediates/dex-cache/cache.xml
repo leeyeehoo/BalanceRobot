@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.1.0_b54cd8cae43cad66b2c408d7452e225cd354d292/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/libs/Sunflower.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="e98cc48df6fea5826e876161bf96009379cd0793">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/2/Sunflower_e7d96694deb03183a300bebfba04bc03b108b19c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.1.0_e1bc3b7de40f38cd473301b0804afe2666af0d28/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.2.0_8d8adebdbc29a6f83100f5d9eab21aa71d0d41ff/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="155448dc62c50db84e9189cbadd70dc7e480c299">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0fc9459c8f4a28a24adfac8798bf575346c9df26/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_7930de59704cfce7426b2becf8b2339322c59136/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_2d81594da4e6f3a58a9a134e6ea305cb8fd0f43d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/libs/Msc.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="994d12017bc2c9ba570180cde5500689d134e6e6">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/2/Msc_02af6ab33c81f08976e069a7942427d3c14099d4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.2.0_005261f20c1bcb5c146639ef7478d7b2e80152ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.2.0_1ea9ea7f85a9d87dc6ff2b1d4af05cf64c306261/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="388a3fa1e9634196439053b925d0337c9d2bd6a0">
+        <dex dex="/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_db0bfc670a7bb67dd644baf62cd3df8154278645/classes.dex" />
+    </item>
+
+</items>

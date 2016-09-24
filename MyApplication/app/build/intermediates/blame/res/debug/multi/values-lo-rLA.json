@@ -1,0 +1,881 @@
+[
+    {
+        "outputFile": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/res/merged/debug/values-lo-rLA/values-lo-rLA.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 102,
+                    "endOffset": 203
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 280,
+                        "endColumn": 102,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 208,
+                    "endColumn": 107,
+                    "endOffset": 311
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 107,
+                        "endOffset": 486
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 316,
+                    "endColumn": 122,
+                    "endOffset": 434
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 491,
+                        "endColumn": 122,
+                        "endOffset": 609
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 439,
+                    "endColumn": 96,
+                    "endOffset": 531
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 614,
+                        "endColumn": 96,
+                        "endOffset": 706
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 536,
+                    "endColumn": 106,
+                    "endOffset": 638
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 711,
+                        "endColumn": 106,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 643,
+                    "endColumn": 84,
+                    "endOffset": 723
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 84,
+                        "endOffset": 898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 728,
+                    "endColumn": 104,
+                    "endOffset": 828
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 903,
+                        "endColumn": 104,
+                        "endOffset": 1003
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 833,
+                    "endColumn": 111,
+                    "endOffset": 940
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 111,
+                        "endOffset": 1115
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 945,
+                    "endColumn": 106,
+                    "endOffset": 1047
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1120,
+                        "endColumn": 106,
+                        "endOffset": 1222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1052,
+                    "endColumn": 96,
+                    "endOffset": 1144
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1227,
+                        "endColumn": 96,
+                        "endOffset": 1319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1149,
+                    "endColumn": 97,
+                    "endOffset": 1242
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1324,
+                        "endColumn": 97,
+                        "endOffset": 1417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1247,
+                    "endColumn": 104,
+                    "endOffset": 1347
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1422,
+                        "endColumn": 104,
+                        "endOffset": 1522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1352,
+                    "endColumn": 102,
+                    "endOffset": 1450
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1527,
+                        "endColumn": 102,
+                        "endOffset": 1625
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1455,
+                    "endColumn": 103,
+                    "endOffset": 1554
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1630,
+                        "endColumn": 103,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1559,
+                    "endColumn": 121,
+                    "endOffset": 1676
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 121,
+                        "endOffset": 1851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1681,
+                    "endColumn": 95,
+                    "endOffset": 1772
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/res/values-lo-rLA/values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1856,
+                        "endColumn": 95,
+                        "endOffset": 1947
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1777,
+                    "endColumn": 187,
+                    "endOffset": 1960
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 191,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1965,
+                    "endColumn": 190,
+                    "endOffset": 2151
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2632,
+                        "endColumn": 194,
+                        "endOffset": 2822
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 2156,
+                    "endColumn": 112,
+                    "endOffset": 2264
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2318,
+                        "endColumn": 112,
+                        "endOffset": 2426
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2269,
+                    "endColumn": 294,
+                    "endOffset": 2559
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4517,
+                        "endColumn": 298,
+                        "endOffset": 4811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2564,
+                    "endColumn": 126,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2066,
+                        "endColumn": 126,
+                        "endOffset": 2188
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endColumn": 202,
+                    "endOffset": 2889
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1859,
+                        "endColumn": 206,
+                        "endOffset": 2061
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2894,
+                    "endColumn": 124,
+                    "endOffset": 3014
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 124,
+                        "endOffset": 1854
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 3019,
+                    "endColumn": 165,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 847,
+                        "endColumn": 169,
+                        "endOffset": 1012
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endColumn": 127,
+                    "endOffset": 3308
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1606,
+                        "endColumn": 127,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 3313,
+                    "endColumn": 226,
+                    "endOffset": 3535
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1142,
+                        "endColumn": 230,
+                        "endOffset": 1368
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 3540,
+                    "endColumn": 228,
+                    "endOffset": 3764
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1373,
+                        "endColumn": 232,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3769,
+                    "endColumn": 124,
+                    "endOffset": 3889
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1017,
+                        "endColumn": 124,
+                        "endOffset": 1137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3894,
+                    "endColumn": 160,
+                    "endOffset": 4050
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3613,
+                        "endColumn": 160,
+                        "endOffset": 3769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 4055,
+                    "endColumn": 123,
+                    "endOffset": 4174
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3489,
+                        "endColumn": 123,
+                        "endOffset": 3608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 4179,
+                    "endColumn": 154,
+                    "endOffset": 4329
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 154,
+                        "endOffset": 842
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 4334,
+                    "endColumn": 164,
+                    "endOffset": 4494
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3324,
+                        "endColumn": 164,
+                        "endOffset": 3484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 4499,
+                    "endColumn": 120,
+                    "endOffset": 4615
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3203,
+                        "endColumn": 120,
+                        "endOffset": 3319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 4620,
+                    "endColumn": 183,
+                    "endOffset": 4799
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 183,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 4804,
+                    "endColumn": 145,
+                    "endOffset": 4945
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 145,
+                        "endOffset": 311
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 4950,
+                    "endColumn": 179,
+                    "endOffset": 5125
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 4948,
+                        "endColumn": 179,
+                        "endOffset": 5123
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 5130,
+                    "endColumn": 131,
+                    "endOffset": 5257
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 4816,
+                        "endColumn": 131,
+                        "endOffset": 4943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 5262,
+                    "endColumn": 141,
+                    "endOffset": 5399
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3774,
+                        "endColumn": 141,
+                        "endOffset": 3911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 5404,
+                    "endColumn": 268,
+                    "endOffset": 5668
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4040,
+                        "endColumn": 272,
+                        "endOffset": 4308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 5673,
+                    "endColumn": 123,
+                    "endOffset": 5792
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3916,
+                        "endColumn": 123,
+                        "endOffset": 4035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 5797,
+                    "endColumn": 106,
+                    "endOffset": 5899
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4313,
+                        "endColumn": 106,
+                        "endOffset": 4415
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 5904,
+                    "endColumn": 196,
+                    "endOffset": 6096
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2431,
+                        "endColumn": 200,
+                        "endOffset": 2627
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 6101,
+                    "endColumn": 124,
+                    "endOffset": 6221
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2193,
+                        "endColumn": 124,
+                        "endOffset": 2313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 6226,
+                    "endColumn": 230,
+                    "endOffset": 6452
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2968,
+                        "endColumn": 234,
+                        "endOffset": 3198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 6457,
+                    "endColumn": 140,
+                    "endOffset": 6593
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2827,
+                        "endColumn": 140,
+                        "endOffset": 2963
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 6598,
+                    "endColumn": 96,
+                    "endOffset": 6690
+                },
+                "from": {
+                    "file": "/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/res/values-lo-rLA/common_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4420,
+                        "endColumn": 96,
+                        "endOffset": 4512
+                    }
+                }
+            }
+        ]
+    }
+]

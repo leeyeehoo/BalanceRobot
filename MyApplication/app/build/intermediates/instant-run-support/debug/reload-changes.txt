@@ -1,0 +1,15 @@
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/camera/preview/CameraSurfaceView$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/DeviceControlActivity$6$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/ui/FaceView$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/mode/GoogleFaceDetect$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/DeviceControlActivity$7$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/camera/CameraInterface$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/camera/CameraInterface$1$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/camera/CameraInterface$3$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/camera/CameraInterface$2$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/DeviceControlActivity$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/DeviceControlActivity$5$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/FaceDetectionActivity$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/FaceDetectionActivity$4$override.class
+CHANGED,/Users/Lee/MyWorkingSpace/cv/MyApplication2/app/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/bupt/lee/myapplication/util/CamParaUtil$override.class
